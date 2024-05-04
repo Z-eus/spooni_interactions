@@ -194,7 +194,8 @@ GenericBenches = {
     'p_sit_chairwicker01a',
     'p_sofa01x',
     'p_sofa02x',
-    'p_windsorbench01x'
+    'p_windsorbench01x',
+    'p_benchlong05x' --New
 }
 
 GenericChairAndBenchScenarios = {
